@@ -1,0 +1,104 @@
+.inscribete{
+	height: 40px;
+	width: 130px;
+	text-align: center;
+	border: 2px solid #01061A;
+	background-color: #01061A;
+}
+h4{
+	text-align: center;
+	margin-left: -45px;
+	margin-top: 10px;
+	font-size: 12px;
+}
+#nuestros{
+	background-color:  #06295C;
+	position: absolute;
+	height: 50px;
+	margin-left: 270px;
+	margin-top: 184px;
+	width: 40%;
+	padding-top: 15px;
+	padding-left: 66px;
+}
+.class{
+	height: 40px;
+	width: 210px;
+	border: 2px solid #06295C;
+	text-align: center;
+	background-color: #06295C;
+	margin-left: 37%;
+	padding-top: 7px;
+}
+.instructores{
+	height: 20px;
+	width: 100px;
+	border: 2px solid black;
+}
+.instru{
+	width: 113%;
+	margin-left: -12px;
+	border: 2px solid #06295C;
+	height: 350px;
+}
+.dance{
+	width: 186%;
+	height:450px;
+	margin-left: -12px;
+}
+#gray{
+	background-color: rgb(244, 244, 244);
+	padding: 70px;
+	margin-top: -125px;
+}
+#space{
+	margin-bottom: 20px;
+}
+#contend{
+    background-color: #EDEEE6;
+    height:230px;
+    margin-top: -121px;
+    padding-top:60px;
+    border-top:2px solid #06295C;
+    margin-left: 2px;
+    width: 939px;
+}
+h1{
+	margin-bottom:20px;
+	color:white;
+}
+#caja{
+	background-color: #06295C;
+	height: 380px;
+	padding: 65px;
+}
+
+#studio{
+	position: absolute;
+	margin-left: 70px;
+	margin-top: 60px;
+
+}
+#blue{
+	background-color:#06295C;
+}
+#size{
+	background-color:#06295C;
+	height: 40px;
+	padding-top: 10px;
+}
+h5{
+	color:white;
+}
+#ofer{
+	margin-left: -40px;
+
+}
+h3{
+	text-align: center;
+}
+.decoration{
+	width: 15%;
+	height: 100px;
+	margin-left: 335px;
+}

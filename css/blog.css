@@ -1,0 +1,30 @@
+#gray{
+	background-color: rgb(244, 244, 244);
+	padding: 60px;
+}
+.blog{
+	height: 215px;
+	width: 106%;
+	
+}
+#grays{
+	background-color: #DFDCDC;
+	padding-left: 30px;
+	padding-right: 10px;
+	padding-top: 30px;
+	padding-bottom: 7px;
+	margin-bottom: 30px;
+}
+h3{
+	text-align: center;
+    margin-top: -35px;
+	color: #192951;
+	margin-bottom: 30px;
+}
+.ver{
+	background-color:#06295C;
+	height: 40px;
+	padding-top: 10px;
+	width: 200px;
+	padding-left: 20px;
+}

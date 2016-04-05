@@ -1,0 +1,32 @@
+.ballet{
+	background-color: black;
+	opacity: 0.5;
+	position: absolute;
+	text-align: center;
+	margin-top: -190px;
+	width: 180px;
+	height: 100px;
+	margin-left: 21px;
+	padding-top: 10px;
+   
+}
+
+.baile{
+	height: 300px;
+	margin-bottom: 20px;
+}
+h3{
+	text-align: center;
+	margin-bottom: 40px;
+	margin-top: -40px;
+}
+
+h4{
+	color:white;
+	text-align: center;
+}
+
+#grey{
+	background-color: rgb(244, 244, 244);
+	padding: 90px;
+}
